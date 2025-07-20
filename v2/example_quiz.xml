@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz title="General Knowledge Quiz">
+    <question>
+        <text>What is the capital of France?</text>
+        <options>
+            <option>London</option>
+            <option>Berlin</option>
+            <option>Paris</option>
+            <option>Madrid</option>
+        </options>
+        <correct_answer>2</correct_answer>
+    </question>
+    <question>
+        <text>Which planet is known as the Red Planet?</text>
+        <options>
+            <option>Venus</option>
+            <option>Mars</option>
+            <option>Jupiter</option>
+            <option>Saturn</option>
+        </options>
+        <correct_answer>1</correct_answer>
+    </question>
+    <question>
+        <text>What is 2 + 2?</text>
+        <options>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+            <option>6</option>
+        </options>
+        <correct_answer>1</correct_answer>
+    </question>
+    <question>
+        <text>Who painted the Mona Lisa?</text>
+        <options>
+            <option>Vincent van Gogh</option>
+            <option>Pablo Picasso</option>
+            <option>Leonardo da Vinci</option>
+            <option>Claude Monet</option>
+        </options>
+        <correct_answer>2</correct_answer>
+    </question>
+</quiz>
